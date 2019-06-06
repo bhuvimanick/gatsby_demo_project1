@@ -6,10 +6,11 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
-    {
+    `gatsby-transformer-json`,
+       {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
+        name: `products`,
         path: `${__dirname}/src/images`,
       },
     },

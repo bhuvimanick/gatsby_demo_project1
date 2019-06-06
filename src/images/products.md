@@ -1,0 +1,105 @@
+{
+    
+      "products": [
+        {
+          "id":1,
+          "name": "Coconut"
+        },
+        {
+          "id":2,
+
+          "name": "Dragon Fruit"
+        },
+        {
+          "id":3,
+
+          "name": "Bananas"
+        },
+        {
+          "id":4,
+
+          "name": "Cherries"
+        },
+        {
+          "id":5,
+
+          "name": "Figs"
+        },
+        {
+          "id":6,
+
+          "name": "Oranges"
+        },
+        {
+          "id":7,
+
+          "name": "Green Grapes"
+        },
+        {
+          "id":8,
+
+          "name": "Horn Cucumber"
+        },
+        {
+          "id":9,
+
+          "name": "Kaki"
+        },
+        {
+          "id":10,
+
+          "name": "Lychee"
+        },
+        {
+          "id":11,
+
+          "name": "Blackberries"
+        },
+        {
+          "id":12,
+
+          "name": "Apple"
+        },
+        {
+          "id":13,
+
+          "name": "Lemon"
+        },
+        {
+          "id":14,
+
+          "name": "Pineapples"
+        },
+        {
+          "id":15,
+          "name": "Mango"
+        },
+        {
+          "id":16,
+          "name": "Pears"
+        },
+        {
+          "id":17,
+          "name": "Strawberries"
+        },
+        {
+          "id":18,
+
+          "name": "Physalis"
+        },
+        {
+          "id":19,
+
+          "name": "Cranberries"
+        },
+        {
+          "id":20,
+
+          "name": "Dried Pineapples"
+        }
+        
+       
+        
+      ]
+    }
+  
