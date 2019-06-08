@@ -1,0 +1,37 @@
+{
+    "products":[
+        {
+            "id": 0,
+            "name": "Back Pain Tips",
+            "description":"Learn how to relieve back pain with some gentle back exercises, activities and learn how Voltaren helps you with pain relief.",
+            
+            "location": {
+              "country": "USA",
+              "state": "California",
+              "city": "Napa"
+            },
+            "active": false
+          }, {
+            "id": 1,
+            "name": "How Does Voltaren Work?",
+            "description":" Find out how Voltaren's range of pain relieving products work to help with pain",
+            
+            "location": {
+              "country": "Germany",
+              "state": "",
+              "city": "Berlin"
+            },
+            "active": false
+          }, {
+            "id": 2,
+            "name": "Osteoarthritis",
+            "description": "Watch Jan’s story to learn how to manage osteoarthritis pain through exercise and everyday movements.",
+            "location": {
+              "country": "USA",
+              "state": "Michigan",
+              "city": "Detroit"
+            },
+            "active": false
+          }
+    ]
+}

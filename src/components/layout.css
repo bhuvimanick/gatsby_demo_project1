@@ -8,6 +8,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.bg-dark{
+  background: #e1e1e1;
+    list-style: none;
+    padding: 21px;
+    margin: 35px;
+    color: #242f60;
+}
 article,
 aside,
 details,
