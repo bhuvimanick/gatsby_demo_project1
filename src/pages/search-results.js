@@ -1,10 +1,19 @@
 import React, { useEffect } from 'react';
+import sw from "stopword"
 import json from '../data.json'
 export default (props) => {
   let responseElement = null;
-  let queryarray=[];
+  let queryarray1=[];
+
+
   let querystring=getQueryParam('query');
-  queryarray= querystring.split("%20");
+  queryarray1= querystring.split("%20");
+//   queryarray.reduce(function(prevVal,currVal,idx){
+// console.log(prevVal);
+// }, '')
+const queryarray = sw.removeStopwords(queryarray1)
+console.log(queryarray)
+
   useEffect(() => {
     console.log(props.location)
     let result = getQueryParam('query');
