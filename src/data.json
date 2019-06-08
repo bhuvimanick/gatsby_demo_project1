@@ -12,7 +12,7 @@
             },
             "active": false
           }, {
-            "id": 1,
+            "id": 3,
             "name": "How Does Voltaren Work?",
             "description":" Find out how Voltaren's range of pain relieving products work to help with pain",
             
@@ -23,9 +23,31 @@
             },
             "active": false
           }, {
-            "id": 2,
+            "id": 4,
             "name": "Osteoarthritis",
             "description": "Watch Jan’s story to learn how to manage osteoarthritis pain through exercise and everyday movements.",
+            "location": {
+              "country": "USA",
+              "state": "Michigan",
+              "city": "Detroit"
+            },
+            "active": false
+          },
+          {
+            "id": 5,
+            "name": "Dental Pain",
+            "description": "Wisdom tooth pain and other types of toothache pain are hard to ignore. Learn about toothache causes and how to get rid of tooth pain with Voltaren.",
+            "location": {
+              "country": "USA",
+              "state": "Michigan",
+              "city": "Detroit"
+            },
+            "active": false
+          },
+          {
+            "id": 6,
+            "name": "Neck Pain",
+            "description": "Neck pain can be the result of stress, tension and poor posture. Learn what causes neck pain and how to effectively treat neck pain.",
             "location": {
               "country": "USA",
               "state": "Michigan",
